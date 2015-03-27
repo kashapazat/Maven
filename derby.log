@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 13 10:46:10 MSK 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014c-11e2-115c-000002ec7670 
+on database directory C:\Users\Azat\workspace\examples_for_itis-master\Maven\db_dev with class loader sun.misc.Launcher$AppClassLoader@27c170f0 
+Loaded from file:/C:/Users/Azat/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_20-b26
+user.dir=C:\Users\Azat\workspace\examples_for_itis-master\Maven
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
